@@ -76,7 +76,7 @@ add_action('wp_enqueue_scripts', 'register_styles');
 function register_my_menus() {
     register_nav_menus(
         array(
-            'footer-menu' => __('Footer Menu', 'eshop') // Register a footer menu
+            'footer-menu' => __('Footer Menu', 'eshop') 
         )
     );
 }
