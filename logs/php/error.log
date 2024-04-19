@@ -1,0 +1,3 @@
+[19-Apr-2024 11:09:53 UTC] The Automattic\WooCommerce\Blocks\Assets\AssetDataRegistry::add() argument is deprecated since version 8.9. The $check_key_exists parameter is no longer used: all duplicate data will be ignored if the key exists by default
+[19-Apr-2024 11:11:17 UTC] The Automattic\WooCommerce\Blocks\Assets\AssetDataRegistry::add() argument is deprecated since version 8.9. The $check_key_exists parameter is no longer used: all duplicate data will be ignored if the key exists by default
+[19-Apr-2024 11:11:26 UTC] The Automattic\WooCommerce\Blocks\Assets\AssetDataRegistry::add() argument is deprecated since version 8.9. The $check_key_exists parameter is no longer used: all duplicate data will be ignored if the key exists by default

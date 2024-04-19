@@ -1,0 +1,178 @@
+2024-04-18T05:21:30+00:00 INFO Tracks event: wcpay_account_connect_start with data: {"incentive":"","mode":"test","is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T05:21:30+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T05:21:40+00:00 INFO Tracks event: wcpay_account_connect_start with data: {"incentive":"","mode":"test","is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T05:21:40+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T05:22:22+00:00 INFO Tracks event: wcpay_account_connect_start with data: {"incentive":"","mode":"test","is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T05:22:22+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T05:28:03+00:00 INFO Tracks event: wcpay_account_connect_start with data: {"incentive":"","mode":"test","is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T05:28:03+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T05:28:04+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T05:42:57+00:00 INFO ENVIRONMENT: array (
+  'WP_User' => 'admin',
+  'HTTP_REFERER' => 'http://cms-project.local/wp-admin/admin.php?page=wc-settings&tab=checkout',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+  'REQUEST_URI' => '/wp-json/wc/v3/payments/settings?_locale=user',
+  'DOING_AJAX' => false,
+  'DOING_CRON' => false,
+  'WP_CLI' => false,
+)
+2024-04-18T05:42:57+00:00 INFO REQUEST GET https://public-api.wordpress.com/wpcom/v2/sites/%s/wcpay/fraud_ruleset?test_mode=1
+2024-04-18T05:42:57+00:00 INFO HEADERS: array (
+  'Content-Type' => 'application/json; charset=utf-8',
+  'User-Agent' => 'WooCommerce Payments/7.5.0',
+)
+2024-04-18T05:42:57+00:00 INFO HTTP_REQUEST_ERROR Site is not connected to WordPress.com
+2024-04-18T05:58:46+00:00 INFO Tracks event: wcpay_account_connect_start with data: {"incentive":"","mode":"test","is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T05:58:47+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T05:58:47+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:00:04+00:00 INFO Tracks event: wcpay_account_connect_start with data: {"incentive":"","mode":"test","is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:02:16+00:00 INFO ENVIRONMENT: array (
+  'WP_User' => 'admin',
+  'HTTP_REFERER' => 'http://cms-project.local/wp-admin/admin.php?page=wc-settings&tab=checkout',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+  'REQUEST_URI' => '/wp-json/wc/v3/payments/settings?_locale=user',
+  'DOING_AJAX' => false,
+  'DOING_CRON' => false,
+  'WP_CLI' => false,
+)
+2024-04-18T06:02:16+00:00 INFO REQUEST GET https://public-api.wordpress.com/wpcom/v2/sites/%s/wcpay/fraud_ruleset?test_mode=1
+2024-04-18T06:02:16+00:00 INFO HEADERS: array (
+  'Content-Type' => 'application/json; charset=utf-8',
+  'User-Agent' => 'WooCommerce Payments/7.5.0',
+)
+2024-04-18T06:02:16+00:00 INFO HTTP_REQUEST_ERROR Site is not connected to WordPress.com
+2024-04-18T06:02:22+00:00 INFO Tracks event: wcpay_account_connect_start with data: {"incentive":"","mode":"test","is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:02:22+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:02:22+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:02:29+00:00 INFO ENVIRONMENT: array (
+  'WP_User' => 'admin',
+  'HTTP_REFERER' => 'http://cms-project.local/wp-admin/admin.php?page=wc-settings&tab=checkout',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+  'REQUEST_URI' => '/wp-json/wc/v3/payments/settings?_locale=user',
+  'DOING_AJAX' => false,
+  'DOING_CRON' => false,
+  'WP_CLI' => false,
+)
+2024-04-18T06:02:29+00:00 INFO REQUEST GET https://public-api.wordpress.com/wpcom/v2/sites/%s/wcpay/fraud_ruleset?test_mode=1
+2024-04-18T06:02:29+00:00 INFO HEADERS: array (
+  'Content-Type' => 'application/json; charset=utf-8',
+  'User-Agent' => 'WooCommerce Payments/7.5.0',
+)
+2024-04-18T06:02:29+00:00 INFO HTTP_REQUEST_ERROR Site is not connected to WordPress.com
+2024-04-18T06:04:04+00:00 INFO ENVIRONMENT: array (
+  'WP_User' => 'admin',
+  'HTTP_REFERER' => 'http://cms-project.local/wp-admin/admin.php?page=wc-settings&tab=checkout',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+  'REQUEST_URI' => '/wp-json/wc/v3/payments/settings?_locale=user',
+  'DOING_AJAX' => false,
+  'DOING_CRON' => false,
+  'WP_CLI' => false,
+)
+2024-04-18T06:04:04+00:00 INFO REQUEST GET https://public-api.wordpress.com/wpcom/v2/sites/%s/wcpay/fraud_ruleset?test_mode=1
+2024-04-18T06:04:04+00:00 INFO HEADERS: array (
+  'Content-Type' => 'application/json; charset=utf-8',
+  'User-Agent' => 'WooCommerce Payments/7.5.0',
+)
+2024-04-18T06:04:04+00:00 INFO HTTP_REQUEST_ERROR Site is not connected to WordPress.com
+2024-04-18T06:04:16+00:00 INFO ENVIRONMENT: array (
+  'WP_User' => 'admin',
+  'HTTP_REFERER' => 'http://cms-project.local/wp-admin/admin.php?page=wc-settings&tab=checkout',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+  'REQUEST_URI' => '/wp-json/wc/v3/payments/settings?_locale=user',
+  'DOING_AJAX' => false,
+  'DOING_CRON' => false,
+  'WP_CLI' => false,
+)
+2024-04-18T06:04:16+00:00 INFO REQUEST GET https://public-api.wordpress.com/wpcom/v2/sites/%s/wcpay/fraud_ruleset?test_mode=1
+2024-04-18T06:04:16+00:00 INFO HEADERS: array (
+  'Content-Type' => 'application/json; charset=utf-8',
+  'User-Agent' => 'WooCommerce Payments/7.5.0',
+)
+2024-04-18T06:04:16+00:00 INFO HTTP_REQUEST_ERROR Site is not connected to WordPress.com
+2024-04-18T06:04:20+00:00 INFO Tracks event: wcpay_account_connect_start with data: {"incentive":"","mode":"test","is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:04:20+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:04:21+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:04:43+00:00 INFO Tracks event: wcpay_account_connect_start with data: {"incentive":"","mode":"test","is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:04:43+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:04:43+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:11:20+00:00 INFO Tracks event: wcpay_account_connect_start with data: {"incentive":"","mode":"test","is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:11:20+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:11:21+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:29:25+00:00 INFO ENVIRONMENT: array (
+  'WP_User' => 'admin',
+  'HTTP_REFERER' => 'http://cms-project.local/wp-admin/admin.php?page=wc-settings&tab=checkout',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+  'REQUEST_URI' => '/wp-json/wc/v3/payments/settings?_locale=user',
+  'DOING_AJAX' => false,
+  'DOING_CRON' => false,
+  'WP_CLI' => false,
+)
+2024-04-18T06:29:25+00:00 INFO REQUEST GET https://public-api.wordpress.com/wpcom/v2/sites/%s/wcpay/fraud_ruleset?test_mode=1
+2024-04-18T06:29:25+00:00 INFO HEADERS: array (
+  'Content-Type' => 'application/json; charset=utf-8',
+  'User-Agent' => 'WooCommerce Payments/7.5.0',
+)
+2024-04-18T06:29:25+00:00 INFO HTTP_REQUEST_ERROR Site is not connected to WordPress.com
+2024-04-18T06:33:29+00:00 INFO ENVIRONMENT: array (
+  'WP_User' => 'admin',
+  'HTTP_REFERER' => 'http://cms-project.local/wp-admin/admin.php?page=wc-settings&tab=checkout',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+  'REQUEST_URI' => '/wp-json/wc/v3/payments/settings?_locale=user',
+  'DOING_AJAX' => false,
+  'DOING_CRON' => false,
+  'WP_CLI' => false,
+)
+2024-04-18T06:33:29+00:00 INFO REQUEST GET https://public-api.wordpress.com/wpcom/v2/sites/%s/wcpay/fraud_ruleset?test_mode=1
+2024-04-18T06:33:29+00:00 INFO HEADERS: array (
+  'Content-Type' => 'application/json; charset=utf-8',
+  'User-Agent' => 'WooCommerce Payments/7.5.0',
+)
+2024-04-18T06:33:29+00:00 INFO HTTP_REQUEST_ERROR Site is not connected to WordPress.com
+2024-04-18T06:33:39+00:00 INFO Tracks event: wcpay_account_connect_start with data: {"incentive":"","mode":"test","is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:33:39+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:33:40+00:00 INFO Tracks event: wcpay_account_connect_wpcom_connection_start with data: {"is_test_mode":true,"jetpack_connected":false,"wcpay_version":"7.5.0","woo_country_code":"(redacted)"}
+2024-04-18T06:34:01+00:00 INFO ENVIRONMENT: array (
+  'WP_User' => 'admin',
+  'HTTP_REFERER' => 'http://cms-project.local/wp-admin/admin.php?page=wc-settings&tab=checkout',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+  'REQUEST_URI' => '/wp-json/wc/v3/payments/settings?_locale=user',
+  'DOING_AJAX' => false,
+  'DOING_CRON' => false,
+  'WP_CLI' => false,
+)
+2024-04-18T06:34:01+00:00 INFO REQUEST GET https://public-api.wordpress.com/wpcom/v2/sites/%s/wcpay/fraud_ruleset?test_mode=1
+2024-04-18T06:34:01+00:00 INFO HEADERS: array (
+  'Content-Type' => 'application/json; charset=utf-8',
+  'User-Agent' => 'WooCommerce Payments/7.5.0',
+)
+2024-04-18T06:34:01+00:00 INFO HTTP_REQUEST_ERROR Site is not connected to WordPress.com
+2024-04-18T06:41:06+00:00 INFO ENVIRONMENT: array (
+  'WP_User' => 'admin',
+  'HTTP_REFERER' => 'http://cms-project.local/wp-admin/admin.php?page=wc-settings&tab=checkout',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+  'REQUEST_URI' => '/wp-json/wc/v3/payments/settings?_locale=user',
+  'DOING_AJAX' => false,
+  'DOING_CRON' => false,
+  'WP_CLI' => false,
+)
+2024-04-18T06:41:06+00:00 INFO REQUEST GET https://public-api.wordpress.com/wpcom/v2/sites/%s/wcpay/fraud_ruleset?test_mode=1
+2024-04-18T06:41:06+00:00 INFO HEADERS: array (
+  'Content-Type' => 'application/json; charset=utf-8',
+  'User-Agent' => 'WooCommerce Payments/7.5.0',
+)
+2024-04-18T06:41:06+00:00 INFO HTTP_REQUEST_ERROR Site is not connected to WordPress.com
+2024-04-18T06:45:13+00:00 INFO ENVIRONMENT: array (
+  'WP_User' => 'admin',
+  'HTTP_REFERER' => 'http://cms-project.local/wp-admin/admin.php?page=wc-settings&tab=checkout',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+  'REQUEST_URI' => '/wp-json/wc/v3/payments/settings?_locale=user',
+  'DOING_AJAX' => false,
+  'DOING_CRON' => false,
+  'WP_CLI' => false,
+)
+2024-04-18T06:45:13+00:00 INFO REQUEST GET https://public-api.wordpress.com/wpcom/v2/sites/%s/wcpay/fraud_ruleset?test_mode=1
+2024-04-18T06:45:13+00:00 INFO HEADERS: array (
+  'Content-Type' => 'application/json; charset=utf-8',
+  'User-Agent' => 'WooCommerce Payments/7.5.0',
+)
+2024-04-18T06:45:13+00:00 INFO HTTP_REQUEST_ERROR Site is not connected to WordPress.com
