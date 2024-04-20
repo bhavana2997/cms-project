@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 mb-4 mb-md-0">
                 <h5 class="text-uppercase mb-4">About <?php bloginfo('name'); ?></h5>
-                <p><?php echo get_theme_mod('shopelite_about_content', 'Default about content if none is set.'); ?></p>
+                <p><?php echo get_theme_mod('eshop_about_content', 'Default about content if none is set.'); ?></p>
             </div>
             <div class="col-lg-6 col-md-6 mb-4 mb-md-0">
                 <h5 class="text-uppercase mb-4">Useful Links</h5>
