@@ -13,7 +13,7 @@ if ($query->have_posts()) :
     while ($query->have_posts()) : $query->the_post();
         ?>
         <div class="post container p-3 mt-3">
-            <h2><?php the_title(); ?></h2>
+        <h2><a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>"><?php the_title(); ?></a></h2>
             <div class="post-details">
                 <span class="post-category">
                     <b>Category:</b> <?php the_category(', '); ?>
@@ -35,7 +35,6 @@ else :
     echo '<p>No posts found.</p>';
 endif;
 
-// Reset post data to avoid conflicts
 wp_reset_postdata();
 
 get_footer();
